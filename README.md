@@ -8,3 +8,4 @@ bugforge.io have beginner friendly web Exploitation Stuff.
 - Local File Inclusion
 - API Pentesting
 - Information Disclosure
+- Broken Logic
