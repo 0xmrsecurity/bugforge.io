@@ -32,7 +32,9 @@
 # Tanuki (04-March-2026) => SSRF
 > Just change the inside request to admin and get some inside details..
 ```bash
+# Original Request payload
 payload = {"url": "http://localhost:3000/leaderboard"}
-or
+
+# Changes Endpoints 
 payload = {"url": "http://localhost:3000/admin"}
 ```
